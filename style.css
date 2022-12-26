@@ -14,7 +14,8 @@ ul.font{
 }
 
 
-.home-pics{
-    height: 500px;
-    width: 500px;
+.home-pics{  /* Centred div */
+    width: 200px;
+    border: 1px solid white;
+    margin: 0 auto; 
 }
